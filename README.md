@@ -1,1 +1,1 @@
-# personality_tester.io
+# random_inspirational_message_generator
